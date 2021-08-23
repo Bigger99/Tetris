@@ -1,0 +1,12 @@
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.exe
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.deps.json
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.runtimeconfig.json
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.runtimeconfig.dev.json
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.dll
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\bin\Debug\netcoreapp3.1\Tetris2.pdb
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.AssemblyInfoInputs.cache
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.AssemblyInfo.cs
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.dll
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.pdb
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.genruntimeconfig.cache
