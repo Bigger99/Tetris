@@ -10,3 +10,4 @@ C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetr
 C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.dll
 C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.pdb
 C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.genruntimeconfig.cache
+C:\Users\egork\source\repos\Tetris2\Tetris2\Tetris2\obj\Debug\netcoreapp3.1\Tetris2.csprojAssemblyReference.cache
